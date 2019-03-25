@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254157846891",
+    "firebase_url": "https://sameekshakeshari-746c8.firebaseio.com",
+    "project_id": "sameekshakeshari-746c8",
+    "storage_bucket": "sameekshakeshari-746c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254157846891:android:a6bfb553fb96d456",
+        "android_client_info": {
+          "package_name": "com.nnk.sameekshakeshari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254157846891-na1qv27gcuhi6t071rslcqg8saoclt0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nnk.sameekshakeshari",
+            "certificate_hash": "92230f19cdd19cfd36d0383f4d3e276c96a0c9d3"
+          }
+        },
+        {
+          "client_id": "254157846891-tea9gdnlf9gk8l1o8g2kac4hgtj5933s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLcFoVV5gpJ4lNSdiaQKaBcViOQXUFn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254157846891-tea9gdnlf9gk8l1o8g2kac4hgtj5933s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
